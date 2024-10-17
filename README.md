@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Xuan Dai, i'm an AI / Software Engineer.
+My name is Xuan Dai, i'm going to become a Software Engineer.
 
 <!--
 **xuandaikk113/xuandaikk113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
